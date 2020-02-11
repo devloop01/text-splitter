@@ -18,3 +18,11 @@ which is stored inside the attribute `data-word`.
 All the words are stored in a container which has class name `split` and `words`. It keeps track of the total no. of words and
 characters stored in the container in css variable `--word-total` and `--char-total`.
 
+**BEFORE**
+
+![before splitting](http://i.imgur.com/XVD9aMJ.png)
+
+
+**AFTER**
+
+![after splitting](http://i.imgur.com/3tXFEzD.png)
